@@ -3,12 +3,14 @@
     "slug": "hello_world",
     "title": "Hello World",
     "weight": 5,
-    "complexity": "Easy"
+    "complexity": "Easy",
+    "category": "01_basic"
   },
   {
     "slug": "fibonacci",
     "title": "Fibonacci Numbers",
     "weight": 10,
-    "complexity": "Easy"
+    "complexity": "Easy",
+    "category": "01_basic"
   }
 ]

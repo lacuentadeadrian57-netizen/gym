@@ -2,7 +2,10 @@
 
 The following exercises are available in the Gymnasium.
 
+## Basic
+
 | Title | Complexity | Weight |
 | :--- | :---: | :---: |
-| Hello World | Easy | 5 |
-| Fibonacci Numbers | Easy | 10 |
+| [Hello World](../exercises/hello_world/README.md) | Easy | 5 |
+| [Fibonacci Numbers](../exercises/fibonacci/README.md) | Easy | 10 |
+
