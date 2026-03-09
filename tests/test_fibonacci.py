@@ -1,5 +1,4 @@
 import pytest
-
 from exercises.fibonacci import solution
 from exercises.fibonacci.solution import fibonacci
 

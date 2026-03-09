@@ -1,5 +1,4 @@
 import pytest
-
 from exercises.hello_world import solution
 from exercises.hello_world.solution import hello_world
 
