@@ -1,6 +1,6 @@
 # Ejercicio: Palíndromo
 
-*[Read in English](README.md)*
+*[Read in English](README.md) | [Resolver en Línea](https://github.dev/matcom/gym/blob/main/exercises/palindrome/solution.py)*
 
 ## Antecedentes/Motivación
 

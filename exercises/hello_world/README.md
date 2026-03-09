@@ -1,6 +1,6 @@
 # Exercise: Hello World
 
-*[Leer en Español](README.es.md)*
+*[Leer en Español](README.es.md) | [Solve Online](https://github.dev/matcom/gym/blob/main/exercises/hello_world/solution.py)*
 
 ## Background/Motivation
 

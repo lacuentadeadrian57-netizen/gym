@@ -1,6 +1,6 @@
 # Exercise: Fibonacci Numbers
 
-*[Leer en Español](README.es.md)*
+*[Leer en Español](README.es.md) | [Solve Online](https://github.dev/matcom/gym/blob/main/exercises/fibonacci/solution.py)*
 
 ## Background/Motivation
 
