@@ -1,4 +1,6 @@
 site_name: The Gymnasium
+repo_url: https://github.com/matcom/gym
+repo_name: matcom/gym
 theme:
   name: material
   palette:
