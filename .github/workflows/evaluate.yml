@@ -44,6 +44,9 @@ jobs:
       - name: Sync Student Code and Run Tests
         working-directory: judge-repo
         run: |
+          # Install dependencies
+          uv sync
+          
           # Mirror student code into the judge's solutions/exercises structure
           # First ensure the target directory exists
           mkdir -p solutions/exercises
