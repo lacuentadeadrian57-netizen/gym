@@ -1,4 +1,4 @@
-SUBMIT = False
+SUBMIT = True
 
 
 def case_inverter(s: str) -> str:  # noqa: ARG001
